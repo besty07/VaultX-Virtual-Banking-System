@@ -56,24 +56,6 @@ VaultX follows **MVC architecture**:
 
 ---
 
-## 🗂️ Project Structure
-VaultX/
-│
-├── Controllers
-├── Services
-├── Repositories
-├── DTOs
-│
-├── login.html
-├── signup.html
-├── dashboard.html
-├── admin.html
-├── passbook.html
-├── history.html
-
-
----
-
 ## 🎯 Learning Outcomes
 
 - Implemented secure role-based access
